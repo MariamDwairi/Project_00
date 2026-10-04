@@ -1,5 +1,0 @@
-commit 03437269c3528b3d63a47ab3b686314780092dee
-Author: MariamDwairi <mariamaldwairi@gmail.com>
-Date:   Sun Oct 4 09:13:34 2026 +0300
-
-    add hello.txt file
