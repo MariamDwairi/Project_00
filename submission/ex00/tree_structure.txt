@@ -1,0 +1,9 @@
+dev_workspace/
+├── archives
+├── projects
+│   └── web
+│       ├── backend
+│       └── frontend
+└── tools
+
+7 directories, 0 files
